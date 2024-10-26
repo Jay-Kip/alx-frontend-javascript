@@ -1,0 +1,16 @@
+{
+  "name": "0x00-es6_basic",
+  "version": "1.0.0",
+  "description": "Learning Objectives\r At the end of this project, you are expected to be able to explain to anyone, without the help of Google:",
+  "type": "module",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "dev": "node"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
